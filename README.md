@@ -1,2 +1,2 @@
 # image-fusion
-College Research
+For educational purposes
